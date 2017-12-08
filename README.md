@@ -1,4 +1,4 @@
-PH WordPress Coding Styles - PHPStorm
+Custom WordPress Coding Styles - PHPStorm
 ==========================================
 
 My custom WordPress coding styles for PhpStorm, forked from the WordPress.xml packaged with PhpStorm
